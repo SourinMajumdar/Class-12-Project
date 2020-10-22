@@ -10,6 +10,9 @@ mycursor.execute("create table if not exists flight(fl_no varchar(10) primary ke
 mycursor.execute("create table passenger (p_id varchar(30), p_name varchar(30), address varchar(50), phone varchar(12), fl_no varchar(10), pnr varchar(11))")
 mycursor.execute("create table booking(fl_no varchar(10), fl_name varchar(15), source varchar(20), destination varchar(20),tod varchar(10), toa varchar(10),p_name varchar(30), address varchar(50), phone varchar(12),nop varchar(5),fare decimal(10))")
 
+=========================================================================================================================================================================================================================================================
+
+
 def mainmenu():
     c = 'y'
     while c == 'y':
