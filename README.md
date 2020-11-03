@@ -28,7 +28,7 @@ fl_disp_in_booking():
 This function is called while booking a flight. It asks for the source and destination place name and displays available flights travelling in the given route. The passenger has to choose one from them to proceed in their flight booking.
 
 
-=================================================================================================================================================================================
+_________________________________________________________________________________________________________________________________________________________________________________
 
 
 REFERENCES:
