@@ -9,22 +9,22 @@ ________________________________________________________________________________
 
 ABOUT THE FUNCTIONS :
 
-- mainmenu():
+- mainmenu():   
   It displays the main menu from where all other functions can be accessed.
 
-- adminmenu(): 
+- adminmenu():  
   It enables the admin to do various jobs in the flight records. A new record can be created, an existing record can be modified or deleted, and all records can be displayed.     Different other functions have been created for the above jobs.
 
-- usermenu(): 
+- usermenu():   
   It enables the passenger to create his/her record in the airport database, delete or modify it, search for desired flights (by giving source or destination place name, by       giving the particular flight number or by just giving the airline name), book and cancel flights. Different other functions have been created to perform the above tasks.
 
-- display_in_mod_and_del1(): 
+- display_in_mod_and_del1():   
   This function has been created to display the whole flight record in a presentable way when the admin wishes to delete or modify any record by choosing one from them.
 
-- display_in_mod_and_del2(): 
+- display_in_mod_and_del2():  
   This function has been created to display the whole passenger record in a presentable way when a passenger wishes to delete or modify his/her record by choosing one from them.
 
-- fl_disp_in_booking(): 
+- fl_disp_in_booking():   
   This function is called while booking a flight. It asks for the source and destination place name and displays available flights travelling in the given route. The passenger     has to choose one from them to proceed in their flight booking.
 
 
