@@ -45,5 +45,6 @@ REFERENCES:
 
 Note:
 
-You need to have the required python libraries installed in your compiler.
-In order to run, you need to create sql databases according to the code or edit the code according to the existing sql databases in your system.
+- You need to have the required python libraries installed in your compiler.
+
+- In order to run, you need to create sql databases according to the code or edit the code according to the existing sql databases in your system.
