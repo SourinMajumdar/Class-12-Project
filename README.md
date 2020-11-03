@@ -34,11 +34,17 @@ ________________________________________________________________________________
 REFERENCES:
 
 •	en.wikipedia.org
+
 •	www.google.com
+
 •	www.slideshare.net
+
 •	www.python.mykvs.in
+
 •	www.geeksforgeeks.org
+
 •	Computer Science with Python Class XII	    - Preeti Arora
+
 •	Computer Science with Python Class XII	    - Sumita Arora
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
